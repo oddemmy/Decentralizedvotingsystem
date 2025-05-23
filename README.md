@@ -23,7 +23,7 @@ A Solidity smart contract for secure decentralized elections, built to show off 
 - Auditable for vote manipulation and access control risks, great for security training.
 
 # Setup
-1. Clone this repo: `git clone https://github.com/[your-username]/Voting-System`
+1. Clone this repo: `git clone https://github.com/oddemmy/Voting-System`
 2. Open `Voting.sol` in Remix IDE (remix.ethereum.org).
 3. Import OpenZeppelin contracts for Ownable.
 
