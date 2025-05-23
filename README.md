@@ -1,4 +1,4 @@
-# Decentralizedvotingsystem
+
 # Decentralized Voting System
 A Solidity smart contract for secure decentralized elections, built to show off intermediate-to-advanced Solidity skills.
 
